@@ -18,8 +18,8 @@ namespace app_backend.Controllers
     public class UserController : ControllerBase
     {
         // GET: api/<controller>
-        [HttpGet("{username}/{password}")]
-        public user Get(string username, string password)
+        [HttpGet("{username}")]
+        public user Get(string username)
         {
             try
             {

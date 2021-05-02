@@ -1,0 +1,14 @@
+D:\Working\treasure\app-backend\app-backend\bin\Debug\netcoreapp2.2\app-backend.deps.json
+D:\Working\treasure\app-backend\app-backend\bin\Debug\netcoreapp2.2\app-backend.runtimeconfig.json
+D:\Working\treasure\app-backend\app-backend\bin\Debug\netcoreapp2.2\app-backend.runtimeconfig.dev.json
+D:\Working\treasure\app-backend\app-backend\bin\Debug\netcoreapp2.2\app-backend.dll
+D:\Working\treasure\app-backend\app-backend\bin\Debug\netcoreapp2.2\app-backend.pdb
+D:\Working\treasure\app-backend\app-backend\obj\Debug\netcoreapp2.2\app-backend.csprojAssemblyReference.cache
+D:\Working\treasure\app-backend\app-backend\obj\Debug\netcoreapp2.2\app-backend.csproj.CoreCompileInputs.cache
+D:\Working\treasure\app-backend\app-backend\obj\Debug\netcoreapp2.2\app-backend.RazorAssemblyInfo.cache
+D:\Working\treasure\app-backend\app-backend\obj\Debug\netcoreapp2.2\app-backend.RazorAssemblyInfo.cs
+D:\Working\treasure\app-backend\app-backend\obj\Debug\netcoreapp2.2\app-backend.AssemblyInfoInputs.cache
+D:\Working\treasure\app-backend\app-backend\obj\Debug\netcoreapp2.2\app-backend.AssemblyInfo.cs
+D:\Working\treasure\app-backend\app-backend\obj\Debug\netcoreapp2.2\app-backend.RazorTargetAssemblyInfo.cache
+D:\Working\treasure\app-backend\app-backend\obj\Debug\netcoreapp2.2\app-backend.dll
+D:\Working\treasure\app-backend\app-backend\obj\Debug\netcoreapp2.2\app-backend.pdb
